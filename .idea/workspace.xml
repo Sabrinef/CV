@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bc29167-5c70-41c7-b9c1-5bcd679f6080" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1kH5o2z6r5SjsM9cFbuktB8bDDY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/compéthence" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\WebstormProjects\Cv_Sabrine\images\certif" />
+      <recent name="C:\Users\HP\WebstormProjects\Cv_Sabrine" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\WebstormProjects\Cv_Sabrine\images\compéthence" />
+      <recent name="C:\Users\HP\WebstormProjects\Cv_Sabrine\images\projet" />
+      <recent name="C:\Users\HP\WebstormProjects\Cv_Sabrine\images" />
+      <recent name="C:\Users\HP\WebstormProjects\Cv_Sabrine\images\food" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bc29167-5c70-41c7-b9c1-5bcd679f6080" name="Default Changelist" comment="" />
+      <created>1605344847582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605344847582</updated>
+      <workItem from="1605344848643" duration="42454000" />
+      <workItem from="1605790744887" duration="34000" />
+      <workItem from="1605797152770" duration="1314000" />
+      <workItem from="1606253412876" duration="14066000" />
+      <workItem from="1606390520832" duration="4282000" />
+      <workItem from="1608841600239" duration="627000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606261930811">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1606261930811" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1605394958584">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605394958584" />
+  </component>
+</project>
